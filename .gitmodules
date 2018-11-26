@@ -1,0 +1,6 @@
+[submodule "spatial-games-cuda"]
+	path = spatial-games-cuda
+	url = https://github.com/AlezM/spatial-games-cuda.git
+[submodule "spatial-games-cs"]
+	path = spatial-games-cs
+	url = https://github.com/AlezM/spatial-games-cs.git
